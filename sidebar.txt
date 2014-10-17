@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gjk:home|Door43 (gjk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gjk|d43-gjk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gjk/archive/master.zip|d43-gjk.zip]]
+
+**Recent Changes**
+{{changes>ns = gjk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gjk|Ethnologue data]]
+
